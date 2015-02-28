@@ -14,3 +14,5 @@ Il présente les fonctionnalités suivantes :
 Voir le [résultat final](http://maxime.chagnolleau.free.fr/tuto/box2dweb/tuto2/GIP_tuto_box2d_2/)
 
 Accéder au [tutoriel](https://maximechagnolleau.wordpress.com/2013/03/30/box2d-web-tuto-2-move-your-body/)
+
+[Retour](https://github.com/maximechagnolleau/gameinprogress)
